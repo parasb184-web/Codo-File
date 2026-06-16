@@ -7,9 +7,6 @@ import HtmlCod from '../../assets/Website Creator-amico.svg'
 import Pycod from '../../assets/Man reading-pana.svg'
 import SpeechCod from '../../assets/Speech to text-bro.svg'
 import ImagCod from '../../assets/Writing on the wall-rafiki.svg'
-// import MoreCod from '../../assets/Sponsor-rafiki.svg';
-import MoreCod from '../../assets/paralympic winners podium-pana.svg';
-import Feedback from '../HomepageScreen/Feedback';
 import Footer from '../HomepageScreen/Footer';
 
 function Homepage() { 
@@ -76,16 +73,7 @@ function Homepage() {
           // poss={{'flexDirection':'row-reverse'}}
           uniId={"uni"}
         />
-        <CodingPage
-          title="What We Earned?"
-          path="https://drive.google.com/file/d/1wynjrv73vmnbzIsonh8dfJy_SweR3sq1/view?usp=sharing"
-          // info={<>A <mark>Programmer</mark> has no Limitation towards <mark>Learning and Improving</mark> the World Through its Skills and Knowledge</>}
-          info={<>Achieved <mark><u>First</u></mark> position in <mark>Website Competition</mark> held in <mark>L.N College - Borivali(East).</mark> </>}
-          con="View Certificate"
-          image={MoreCod}
-          // poss={{'flexDirection':'row'}}
-        />
-        <Feedback/>
+
         <Footer/>
         {/* <a href="http://" target="_blank" rel="noopener noreferrer"></a> */}
     </div>
