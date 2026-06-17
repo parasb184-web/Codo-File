@@ -82,10 +82,9 @@
   ### 10. Register Page
   ![RegisterPage](./documentation/Project%20Assets/RegisterPage.PNG)
 
-## [ B ] Contributor & Maintainer
+## [ B ] Developer & Maintainer
 
-* Original Project by **[Faizan Alam](https://github.com/faizan619)**.
-* Maintained and updated by **[parasb184-web](https://github.com/parasb184-web)**.
+* Developed and Maintained by **[parasb184-web](https://github.com/parasb184-web)**.
 
 ## Contact Information
 
